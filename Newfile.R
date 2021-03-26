@@ -4,3 +4,6 @@ print("now the file lives in GitHub")
 
 # == Comments on the above
 # Unclear that anything appeared on GitHub
+
+# == Comments on the above
+# Realized I committed, but did not push
